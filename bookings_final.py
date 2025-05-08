@@ -260,3 +260,7 @@ def main_window():
 # Start the application
 if __name__ == "__main__":
     main_window()
+
+
+
+print("Hello world")
